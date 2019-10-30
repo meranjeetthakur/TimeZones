@@ -1,0 +1,8 @@
+{
+    "name": "shoutlara/timezones",
+    "description": "This is test package",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
