@@ -13,6 +13,6 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "ShoutLara\\TimeZones\\": "src/"
+            "shoutLara\\timeZones\\": "src/"
         }
 }
