@@ -3,6 +3,12 @@
     "description": "This is test package",
     "type": "library",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Ranjeet",
+            "email": "meranjeetthakur@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
